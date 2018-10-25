@@ -7,7 +7,7 @@ import javax.swing.JOptionPane;
 
 import org.jointheleague.graphical.robot.Robot;
 
-import java.awt.Color;
+
 import java.util.Random;
 
 public class RobotColorChooser {
